@@ -1,9 +1,8 @@
 # _Indepedent Project #2: Programming Language Suggester_
 
-#### Contributors: _**Claire Thorington & Ashe Urban**_
+#### Contributors: _**Ashe Urban**_
 
-#### _A page demonstrating new skills in JavaScript and jQuery!_
-
+#### _A page demonstrating new skills in JavaScript!_
 
 ## Technologies Used
 
@@ -11,11 +10,9 @@
 * CSS
 * Markdown
 * JavaScript
-* jQuery
 
 ## Description
 
-text
 
 ## Tests
 # _Describe: wordCounter()_
@@ -97,9 +94,6 @@ const word = "zoinks";
 removeBadWords(word, text);
 Expected output: "you stepped on my foot";
 
-
-
-
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop
@@ -108,10 +102,9 @@ Expected output: "you stepped on my foot";
 
 ## Known Bugs
 
-* text
 
 ## License
 
 _MIT_
 
-Copyright (c) _2022_ _Claire Thorington & Ashe Urban_
+Copyright (c) _2023_ _Ashe Urban_
