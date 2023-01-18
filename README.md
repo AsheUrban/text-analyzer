@@ -43,6 +43,13 @@ Expected Output: 2
 
 # _Describe: numberOfOccurrencesInText()_
 
+Test: "If an empty string is passed in as a word, it should return 0."
+Code:
+const word = "";
+const text = "red RED Red!";
+numberOfOccurrencesInText(word, text);
+Expected Output: 0
+
 Test: "It should return 0 occurrences of a word for an empty string."
 Code:
 const text = "";
